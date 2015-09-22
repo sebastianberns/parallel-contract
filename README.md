@@ -13,7 +13,7 @@ One goal of this initiative is to establish a common sense of a fair business re
 In turn, this common contract could function as future point of reference for educators and provide extra-curricular material.
 
 ### Steps and longterm goals 
-(progressively optional)
+
 1. [ ] Share and collect individual professional experiences
 2. [ ] Organize and discuss issues by topics
 3. [ ] Draft first version of conditions
