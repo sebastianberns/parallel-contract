@@ -14,13 +14,13 @@ In turn, this common contract could function as future point of reference for ed
 
 ### Steps and longterm goals 
 
-1. [ ] Share and collect individual professional experiences
-2. [ ] Organize and discuss issues by topics
-3. [ ] Draft first version of conditions
-4. [ ] Translate into different languages
-5. [x] Publish on Github
-6. [ ] Create communication campaign: poster series
-7. [ ] Invite to participate: to copy, translate, change and improve the contract and to promote its idea
+- [ ] 1. Share and collect individual professional experiences
+- [ ] 2. Organize and discuss issues by topics
+- [ ] 3. Draft first version of conditions
+- [ ] 4. Translate into different languages
+- [x] 5. Publish on Github
+- [ ] 6. Create communication campaign: poster series
+- [ ] 7. Invite to participate: to copy, translate, change and improve the contract and to promote its idea
 
 ---
 
