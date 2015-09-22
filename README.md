@@ -4,7 +4,7 @@ Many designers choose to work freelance for reasons of creative liberty and in o
 
 As independent creators of course we’re responsable of improving and maintaining our own working conditions. In my experience many times that’s the first thing that gets lost on the way.
 
-Also, in education these topics don’t get a lot of attention. Next to conceptual and formal
+Also, in universities and art schools these topics don’t get a lot of attention, next to the conceptual and formal education.
 
 Working on your own has another disadvantage: each isolated individual has to solve the same problems as their peers, over and over again. Everyone actually faces the same problems and fights the same struggles, but there’s no culture of sharing these doubts.
 
